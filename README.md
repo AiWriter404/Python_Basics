@@ -8,3 +8,5 @@ Report of Issue
 <br>
 I am facing Issues about VSCODE there I code some Python syntax that is not showing output.
 I realized That about Git how to commit changes.
+<br>
+This is About How to use python Programming code repeat Very time in the programming field.
