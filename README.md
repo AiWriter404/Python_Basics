@@ -9,4 +9,5 @@ Report of Issue
 I am facing Issues about VSCODE there I code some Python syntax that is not showing output.
 I realized That about Git how to commit changes.
 <br>
+Today I got resolved some issues and start a new project I am excited today.
 This is About How to use python Programming code repeat Very time in the programming field.
